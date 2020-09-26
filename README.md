@@ -1,1 +1,3 @@
-# Laerning github !
+# Learning github !
+
+Using freecodeCamp's course to get familiar with github.
